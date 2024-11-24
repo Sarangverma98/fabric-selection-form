@@ -570,9 +570,9 @@ const FormPage = () => {
               }
             >
               <MenuItem value="None">None</MenuItem>
-              {dropdownData.fabricName.map((fabric) => (
-                <MenuItem key={fabric} value={fabric}>
-                  {fabric}
+              {formData?.fabrics?.map((fabric) => (
+                <MenuItem key={fabric.fabricName} value={fabric.fabricName}>
+                  {fabric.fabricName}
                 </MenuItem>
               ))}
             </Select>
