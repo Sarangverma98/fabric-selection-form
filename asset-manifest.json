@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/fabric-selection-form/static/css/main.e6c13ad2.css",
-    "main.js": "/fabric-selection-form/static/js/main.18d15f3a.js",
+    "main.js": "/fabric-selection-form/static/js/main.f6300fef.js",
     "static/js/453.d9dadc1f.chunk.js": "/fabric-selection-form/static/js/453.d9dadc1f.chunk.js",
     "index.html": "/fabric-selection-form/index.html",
     "main.e6c13ad2.css.map": "/fabric-selection-form/static/css/main.e6c13ad2.css.map",
-    "main.18d15f3a.js.map": "/fabric-selection-form/static/js/main.18d15f3a.js.map",
+    "main.f6300fef.js.map": "/fabric-selection-form/static/js/main.f6300fef.js.map",
     "453.d9dadc1f.chunk.js.map": "/fabric-selection-form/static/js/453.d9dadc1f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.18d15f3a.js"
+    "static/js/main.f6300fef.js"
   ]
 }
